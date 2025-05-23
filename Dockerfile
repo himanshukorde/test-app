@@ -1,4 +1,4 @@
-FROM openjdk:17
+FROM openjdk:19
 
 COPY target/CarHub.jar  /usr/app/
 
